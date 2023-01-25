@@ -14,5 +14,8 @@ public class NetBeansGit_tarea {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Ivan Molina Mas");
+        String nombre = "Ivan";
+        System.out.println("nombre = " + nombre);
+        
     }
 }
