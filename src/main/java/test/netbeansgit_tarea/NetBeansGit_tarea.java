@@ -16,6 +16,7 @@ public class NetBeansGit_tarea {
         System.out.println("Ivan Molina Mas");
         String nombre = "Ivan";
         System.out.println("nombre = " + nombre);
+        System.out.prinln("Linea creada desde Github");
         
     }
 }
